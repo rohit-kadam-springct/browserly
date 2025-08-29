@@ -6,6 +6,10 @@ An intelligent browser automation agent powered by LLM that can perform web inte
 
 Simply describe what you want to do in plain English, and watch the AI navigate, fill forms, click buttons, and complete tasks automatically!
 
+## DEMO video
+
+[![Watch the demo](https://img.youtube.com/vi/enWKFrAQvU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=enWKFrAQvU4)
+
 ---
 
 ## ✨ Key Features

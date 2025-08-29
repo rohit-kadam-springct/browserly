@@ -8,8 +8,13 @@ Simply describe what you want to do in plain English, and watch the AI navigate,
 
 ## DEMO video
 
+### Chaicode
 [![Watch the demo](https://img.youtube.com/vi/enWKFrAQvU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=enWKFrAQvU4)
 
+### Amazon
+[![Watch the demo](https://img.youtube.com/vi/jwTn_XaLB5I/maxresdefault.jpg)](https://www.youtube.com/watch?v=jwTn_XaLB5I)
+
+https://youtu.be/
 ---
 
 ## ✨ Key Features

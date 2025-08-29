@@ -3,17 +3,20 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "build": "tsc --noEmit false --allowImportingTsExtensions false",
-    "start": "ts-node src/index.ts"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.13.1",
-  "devDependencies": {
-    "@types/node": "^24.3.0",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.2"
+  "dependencies": {
+    "@ai-sdk/google": "^2.0.11",
+    "@openai/agents": "^0.0.17",
+    "@openai/agents-extensions": "^0.1.0",
+    "dotenv": "^17.2.1",
+    "playwright": "^1.54.2",
+    "zod": "^3.25.76"
   }
 }
